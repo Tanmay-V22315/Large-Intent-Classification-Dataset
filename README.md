@@ -5,7 +5,7 @@ A dataset with about 111,131 elements, includes Out-Of-Scope examples as well.
 I used [oos-eval](https://github.com/clinc/oos-eval) dataset and paraphrased every sentence using [Parrot](https://pythonrepo.com/repo/PrithivirajDamodaran-Parrot-python-natural-language-processing)
 
 ## Is this clean?
-Unfortunately, no. I can't guarantee that every sentence matches up with its appropriate intent since I automated everything. Aside from that, some sentences have some punctuations while some don't. Also, you should note that since some sentences are the same as previous sentences but phrased in a different manner, this may cause some issues for you.
+Unfortunately, no. I can't guarantee that every sentence matches up with its appropriate intent since I automated everything. Aside from that, some sentences have some punctuations while some don't. Also, you should note that since some sentences are the same as previous sentences but phrased in a different manner, this may cause some issues for you and the dataset is pretty imbalanced as well.
 
 For the count of how many of each tag are there, scroll down below **List of Intents**
 
